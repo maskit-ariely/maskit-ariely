@@ -12,5 +12,5 @@ I'm Maskit Ariely, a Cyber Security Researcher based in Tel-Aviv.
 - [Stack](https://github.com/maskit-ariely/C/tree/main/ds_stack) (C)
 
 ### Contact me:
-maskit.ariely@gmail.com
+maskit.ariely@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/maskit-ariely/)
