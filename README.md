@@ -6,6 +6,7 @@ I'm Maskit Ariely, a Cyber Security Researcher based in Tel-Aviv.
 ### Open-Source Contribution
 * Atomic Red Team:
     - [T1567.003](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics/T1567.003)
+    - [T1005](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics/T1005)
 
 ### My Projects
 - [C2](https://github.com/maskit-ariely/Python/tree/main/C2) (Python)
